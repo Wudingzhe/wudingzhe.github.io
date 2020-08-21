@@ -5,7 +5,7 @@ date:   2019-10-01 08:49:35 -0700
 categories: jekyll update
 ---
 
-/*This is a shitty main function that you will never get rid of. Change it or rewrite it if you can. Please ignore indention errors. It will still compile and run, like magic. Believe me.*/
+/\*This is a shitty main function that you will never get rid of. Change it or rewrite it if you can. Please ignore indention errors. It will still compile and run, like magic. Believe me.\*/
 
 {% highlight c %}
 
