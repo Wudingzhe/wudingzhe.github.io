@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How to say goodbye to my dear ego"
-date:   2019-10-01 09:43:22 +0800
-categories: chedan
+date:   2020-08-21 08:49:35 -0700
+categories: jekyll update
 ---
 
 版权归作者所有，任何形式转载请联系作者。
@@ -12,9 +12,7 @@ categories: chedan
 /*This is a shitty main function that you will never get rid of. Change it or rewrite it if you can. Please ignore indention errors. It will still compile and run, like magic. Believe me.*/
 
 {% highlight ruby %}
-版权归作者所有，任何形式转载请联系作者。
-作者：無定著（来自豆瓣）
-来源：https://www.douban.com/note/736360637/
+
 
 time LIFE() { 
 
