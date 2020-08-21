@@ -1,17 +1,13 @@
 ---
 layout: post
 title:  "How to say goodbye to my dear ego"
-date:   2020-08-21 08:49:35 -0700
+date:   2019-10-01 08:49:35 -0700
 categories: jekyll update
 ---
 
-版权归作者所有，任何形式转载请联系作者。
-作者：無定著（来自豆瓣）
-来源：https://www.douban.com/note/736360637/
-
 /*This is a shitty main function that you will never get rid of. Change it or rewrite it if you can. Please ignore indention errors. It will still compile and run, like magic. Believe me.*/
 
-{% highlight ruby %}
+{% highlight c %}
 
 
 time LIFE() { 
@@ -70,7 +66,6 @@ return EXIT_FAILURE;
 } 
 {% endhighlight %}
 
+Check out the [Douban Page][douban] for more gibberish!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[douban]:https://www.douban.com/note/736360637/
