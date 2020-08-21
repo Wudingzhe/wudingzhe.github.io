@@ -11,7 +11,7 @@ categories: chedan
 
 /*This is a shitty main function that you will never get rid of. Change it or rewrite it if you can. Please ignore indention errors. It will still compile and run, like magic. Believe me.*/
 
-{% highlight c %}
+{% highlight ruby %}
 版权归作者所有，任何形式转载请联系作者。
 作者：無定著（来自豆瓣）
 来源：https://www.douban.com/note/736360637/
