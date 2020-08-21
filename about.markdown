@@ -8,6 +8,6 @@ permalink: /about/
 
 满嘴瞎话 
 
-擅长胡说八道 
+特长：胡说八道 
 
 at [豆瓣Douban](https://www.douban.com/people/wudingzhe/)
