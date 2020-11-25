@@ -35,7 +35,7 @@ social:
     - https://twitter.com/wudingzhe0
 lang: CN
 
-#Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
+#Podcast Metadata. Used by the RSS Feed.
 podcast_title: 咣咣瞎扯淡
 podcast_author: 無定著
 podcast_email: wudingzhe@gmail.com
@@ -47,5 +47,5 @@ podcast_type: serial
 podcast_lang: cn
 podcast_launch: "2020-11-25" #Launch date of your podcast
 podcast_copyright: "2020 無定著; 2020 wudingzhe"
-podcast_feed: RSS
+podcast_feed: https://wudingzhe.github.io/episodes.rss
 podcast_artwork: "/assets/img/Podcast_Cover.png"

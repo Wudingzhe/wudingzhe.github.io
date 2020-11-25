@@ -12,8 +12,7 @@ social:
   - {icon: 'twitter', type: "brand", link: 'https://twitter.com/Wudingzhe0'}
  # - {icon: 'facebook', type: "brand", link: '#'}
  # - {icon: 'youtube', type: "brand", link: '#'}  
- # - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
-  - {icon: 'rss', type: "solid", link: "#"}
+  - {icon: 'rss', type: "solid", link: "https://wudingzhe.github.io/episodes.rss"}
 
 websites-podcast:
   - {name: 'Apple Podcast', link: '#'}
@@ -23,7 +22,7 @@ websites-podcast:
   - {name: 'Anchor', link: '#'}
   - {name: '喜马拉雅', link: 'https://www.ximalaya.com/zhubo/208901829/'}
   - {name: 'Himalaya', link: '#'}
-  - {name: 'RSS', link: '#'}
+  - {name: 'RSS', link: 'https://wudingzhe.github.io/episodes.rss'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
