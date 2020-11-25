@@ -1,0 +1,33 @@
+analytics-id: 
+#Pages
+pages:
+  - {name: 'Episodes', url: 'episodes.html'}
+  - {name: 'Articles', url: 'articles.html'}
+  - {name: 'About', url: 'about.html'}
+  # - {name: 'GitHub', url: '#'}
+  # - {name: 'Get This Theme', url: 'https://github.com/PandaSekh/Jekyll-Podcaster'}
+
+social:
+ # - {icon: 'instagram', type: "brand", link: '#'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/Wudingzhe0'}
+ # - {icon: 'facebook', type: "brand", link: '#'}
+ # - {icon: 'youtube', type: "brand", link: '#'}  
+ # - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'rss', type: "solid", link: "#"}
+
+websites-podcast:
+  - {name: 'Apple Podcast', link: '#'}
+  - {name: 'Spotify', link: '#'}
+  - {name: 'YouTube', link: '#'}
+  - {name: 'Google Podcast', link: '#'}
+  - {name: 'Anchor', link: '#'}
+  - {name: '喜马拉雅', link: 'https://www.ximalaya.com/zhubo/208901829/'}
+  - {name: 'Himalaya', link: '#'}
+  - {name: 'RSS', link: '#'}
+
+translate-date: true #See _includes/date.html to translate the months' name
+shownotes: true
+
+#Disqus
+disqus:
+  disqus_shortname: 

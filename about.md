@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+# permalink: /about/
 ---
+花名：咣/咣咣/咣咣咣/咣咣咣咣
 
 什么都不懂 
 
