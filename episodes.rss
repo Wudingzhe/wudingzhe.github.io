@@ -26,6 +26,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 	<itunes:image href="{{ site.url }}{{ site.podcast.image }}"/>
 
 {% for post in site.posts %}
+	{% if post.type == "main" %}
 	<item>
 		<title>{{ post.title | xml_escape }}</title>
 		<dc:creator>{{ site.podcast.owner.name }}</dc:creator>
@@ -40,6 +41,7 @@ xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:dc="htt
 		<itunes:duration>{{ post.duration }}</itunes:duration>
 		<itunes:image href="{{ site.url }}{{ site.podcast.image }}"/><enclosure url="{{ site.url }}/podcasts/{{ post.media }}" length="{{ post.length }}" type="audio/mpeg" />
 	</item>
+	{% endif %}
 	{% endfor %}
 </channel>
 </rss>
