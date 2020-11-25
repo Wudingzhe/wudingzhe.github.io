@@ -14,7 +14,7 @@ keywords: [podcast, jekyll]
 #Plugins
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
-#exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
+exclude: [_podcast.rss] 
 
 #Pagination
 paginate: 5
@@ -47,5 +47,5 @@ podcast_type: serial
 podcast_lang: cn
 podcast_launch: "2020-11-25" #Launch date of your podcast
 podcast_copyright: "2020 無定著; 2020 wudingzhe"
-podcast_feed: https://wudingzhe.github.io/episodes.rss
+podcast_feed: https://wudingzhe.github.io/podcast.xml
 podcast_artwork: "/assets/img/Podcast_Cover.png"

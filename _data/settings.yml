@@ -22,7 +22,7 @@ websites-podcast:
   - {name: 'Anchor', link: '#'}
   - {name: '喜马拉雅', link: 'https://www.ximalaya.com/zhubo/208901829/'}
   - {name: 'Himalaya', link: '#'}
-  - {name: 'RSS', link: 'https://wudingzhe.github.io/episodes.rss'}
+  - {name: 'RSS', link: 'https://wudingzhe.github.io/podcast.xml'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
