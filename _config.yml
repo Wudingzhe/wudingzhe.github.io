@@ -2,7 +2,7 @@
 title: "無定著"
 description: "咣咣瞎扯淡"
 podcast-description: "A legal place for neurodiverse humans."
-url:  "" # Actual base url of the website
+url:  "https://wudingzhe.github.io/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "無定著"
@@ -43,9 +43,10 @@ podcast_subtitle: 少儿视角的外星观察调侃类播客
 podcast_summary: 全宇宙首档少儿视角的外星观察调侃类播客。
 podcast_description: 没个正经，满嘴瞎话，健脾养生。
 podcast_explicit: "no"
-podcast_type: serial 
+podcast_type: comedy 
+podcast_keywords: "funny; comedy"
 podcast_lang: cn
 podcast_launch: "2020-11-25" #Launch date of your podcast
 podcast_copyright: "2020 無定著; 2020 wudingzhe"
-podcast_feed: https://wudingzhe.github.io/podcast.xml
+podcast_feed: https://wudingzhe.github.io/episodes.rss
 podcast_artwork: "/assets/img/Podcast_Cover.png"
